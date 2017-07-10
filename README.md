@@ -1,5 +1,5 @@
 # ESP8266-Pentair
-Pentair Pool Controller - broadcast info over wifi, e.g. Pool Tempurature
+Pentair Pool Controller - broadcast info over wifi, e.g. Pool Temperature
 
 Based of the code from https://www.sdyoung.com/home/pool-status/how-i-control-the-pool/
 
